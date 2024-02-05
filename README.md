@@ -49,7 +49,7 @@ This is a simple password generator built with React. It allows users to customi
 
 ## Screenshots
 
-![Password Generator](E:\projects\Password\password\screenshot)
+![Password Generator]([E:\projects\Password\password\screenshot](https://github.com/PiyumiKithsiri/Password-Generator/blob/main/password-generator.png))
 
 ## Technologies Used
 
